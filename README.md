@@ -1,2 +1,2 @@
-# htmlstar.githab.io
+# htmlstar.github.io
 одностраничник.лендинг.сайт-визитка/ Landing
